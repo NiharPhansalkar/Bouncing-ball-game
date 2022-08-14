@@ -1,0 +1,1 @@
+This is a small game made using mainly JS. It is referenced from the MDN docs.
